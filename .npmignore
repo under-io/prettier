@@ -1,0 +1,8 @@
+# exclude source code
+src
+
+# exclude configuration files
+prettier.config.js
+eslint.config.js
+vite.config.js
+.vscode
